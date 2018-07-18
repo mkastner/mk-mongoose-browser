@@ -1,0 +1,19 @@
+{
+  "name": "mk-mongoose-browser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack" 
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "mongoose": "^5.2.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.5",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
